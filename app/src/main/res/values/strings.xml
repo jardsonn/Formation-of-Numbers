@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formation Numbers</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="start_message">Este é um jogo simples em que você deve pensar em um número de 1 a 63.\nEm seguida, você verá seis tabelas, cada uma com uma série de números. Você deve indicar em quais tabelas o número que você pensou aparece. \nAo final do jogo, o número que você pensou será revelado.</string>
+    <string name="start">Iniciar</string>
+    <string name="formation_of_numbers">Formação dos Números</string>
+    <string name="result_message">Você pensou no número</string>
+    <string name="restart">Reiniciar</string>
+    <string name="question_if_the_number_is">O número que você pensou está nessa tabela?</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+</resources>
